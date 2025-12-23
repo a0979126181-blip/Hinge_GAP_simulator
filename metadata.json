@@ -1,0 +1,5 @@
+{
+  "name": "筆記型電腦轉軸機構模擬器 (Laptop Hinge Simulator)",
+  "description": "一個用於視覺化筆記型電腦 LCD 上蓋與系統底座在 0 至 180 度開啟過程中的干涉與間隙淨空的專業 2D 仿真工具。支持實時干涉檢測、間隙計算及運動軌跡追踪。",
+  "requestFramePermissions": []
+}
